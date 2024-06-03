@@ -1,9 +1,9 @@
 title: Mandar Angchekar's Portfolio
-description: >-
-  Welcome to my portfolio where I showcase my projects and skills in data analysis, machine learning, and software development.
-email: mangchek@syr.edu
-url: "https://mandarangchekar.github.io" # Customize with your actual GitHub Pages URL
+description: Welcome to my professional portfolio site.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mandarangchekar
-github_username: mandarangchekar
-linkedin_username: mandarangchekar
-theme: minima 
+github_username:  mandarangchekar
+linkedin_username: mandar-angchekar-4220641a7
+
+theme: minima # Change this to your Jekyll theme, which should be responsive
